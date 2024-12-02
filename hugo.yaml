@@ -1,4 +1,21 @@
-baseURL: https://example.org/
-languageCode: en-us
-title: My New Hugo Site
+baseURL: https://somiew.github.io/
+languageCode: en-gb
+title: Rebell
 theme: PaperMod
+
+enableEmoji: true
+
+menu:
+  main:
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 10
+    - identifier: instagram
+      name: insta
+      url: https://www.instagram.com/samlimeshield/
+      weight: 20
+    - identifier: spotify
+      name: spotify
+      url: https://open.spotify.com/user/somiew?si=188e6be1167c4809
+      weight: 30
