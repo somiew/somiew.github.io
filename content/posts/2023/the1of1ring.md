@@ -23,4 +23,3 @@ Yes, you read that right, they're printing **ONE** copy of that card. The amou
   
 Looks good though!
 
-![](images/en_T2CA6K33JjSe.png)

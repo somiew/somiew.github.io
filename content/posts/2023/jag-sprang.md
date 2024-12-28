@@ -18,16 +18,4 @@ Som första grej testade jag att springa en halvtimme på löpband inne på gymm
 
 I onsdags hände det, jag sprang Malmöloppet, 5 km, 33:00 minuter. Lyckades hålla ett väldigt jämnt tempo på 9.10 km/h eller 6:35 min per km.
 
-<figure>
-
-![](images/353754118_239067952211016_9038121605288292335_n-576x1024.jpg)
-
-<figcaption>
-
-Trött kille
-
-</figcaption>
-
-</figure>
-
 Den 2 sept är det [Midnattsloppet](https://midnattsloppet.com/midnattsloppet-malmo/) i Malmö. Man är ju lite sugen. Vore najs att klara sig under i alla fall 30 minuter.
