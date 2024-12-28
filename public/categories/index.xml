@@ -1,11 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on My New Hugo Site</title>
-    <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <title>Categories on Rebell</title>
+    <link>https://somiew.github.io/categories/</link>
+    <description>Recent content in Categories on Rebell</description>
     <generator>Hugo -- 0.139.0</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 11 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://somiew.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Social</title>
+      <link>https://somiew.github.io/categories/social/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://somiew.github.io/categories/social/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Games</title>
+      <link>https://somiew.github.io/categories/games/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://somiew.github.io/categories/games/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Health</title>
+      <link>https://somiew.github.io/categories/health/</link>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://somiew.github.io/categories/health/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Accessories</title>
+      <link>https://somiew.github.io/categories/accessories/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://somiew.github.io/categories/accessories/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Til</title>
+      <link>https://somiew.github.io/categories/til/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://somiew.github.io/categories/til/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
