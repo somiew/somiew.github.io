@@ -59,7 +59,7 @@ Här snackar vi då den upphottade switch-versionen av det knasiga japanska spel
 _Marvel Rivals_ (2024)  
 Sist, men inte minst, Marvel Rivals. Kan väl inte säga att det har rullats eftertexter, då det inte är progressionsbaserat på det sättet alls. Men ville ändå ha med det, då det lilla jag spelat med kompisar än så länge, säger mig att det kommer bli en hel del mer av detta 2025.
 
-Spel jag hoppas slutföra nästar år då?  
+Spel jag hoppas slutföra nästa år då?  
 Baldur’s Gate 3 står som sagt kvar på den listan, Death Stranding och Avatar Frontiers of Pandora är däremot strykta, även om jag skulle vilja ge Avatar lite mer tid.
 Andra spel jag påbörjat som jag vill slutföra är Tetris Effect: Connected samt 51 Worldwide Games, båda till switchet. 
 Även Split Fiction som ska släppas 2025 är högt upp på listan av spel jag skulle vilja ta mig igenom. Det är ju dock inte ens släppt än, så vi får väl se.
