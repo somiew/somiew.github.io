@@ -2,16 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://somiew.github.io/posts/2024/117/</loc>
-    <lastmod>2024-02-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://somiew.github.io/categories/</loc>
-    <lastmod>2024-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://somiew.github.io/tags/games/</loc>
+    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://somiew.github.io/categories/games/</loc>
+    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://somiew.github.io/posts/</loc>
-    <lastmod>2024-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://somiew.github.io/</loc>
+    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://somiew.github.io/posts/2025/rullade-speleftertexter-2024/</loc>
+    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://somiew.github.io/tags/svenska/</loc>
+    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://somiew.github.io/tags/</loc>
+    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://somiew.github.io/posts/2024/117/</loc>
     <lastmod>2024-02-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://somiew.github.io/categories/social/</loc>
@@ -20,25 +35,13 @@
     <loc>https://somiew.github.io/tags/socialt/</loc>
     <lastmod>2024-02-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://somiew.github.io/tags/svenska/</loc>
-    <lastmod>2024-02-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://somiew.github.io/tags/</loc>
-    <lastmod>2024-02-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://somiew.github.io/tags/utmaning/</loc>
     <lastmod>2024-02-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://somiew.github.io/tags/games/</loc>
-    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://somiew.github.io/categories/games/</loc>
-    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://somiew.github.io/posts/2024/rullade-speleftertexter-2023/</loc>
     <lastmod>2024-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://somiew.github.io/tags/halsa/</loc>
+    <loc>https://somiew.github.io/tags/h%C3%A4lsa/</loc>
     <lastmod>2023-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://somiew.github.io/categories/health/</loc>
