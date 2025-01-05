@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on Rebell</title>
-    <link>https://somiew.github.io/categories/</link>
-    <description>Recent content in Categories on Rebell</description>
+    <title>Categories on Lindskold</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Lindskold</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://somiew.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Games</title>
-      <link>https://somiew.github.io/categories/games/</link>
+      <link>http://localhost:1313/categories/games/</link>
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://somiew.github.io/categories/games/</guid>
+      <guid>http://localhost:1313/categories/games/</guid>
       <description></description>
     </item>
     <item>
       <title>Social</title>
-      <link>https://somiew.github.io/categories/social/</link>
+      <link>http://localhost:1313/categories/social/</link>
       <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://somiew.github.io/categories/social/</guid>
+      <guid>http://localhost:1313/categories/social/</guid>
       <description></description>
     </item>
     <item>
       <title>Health</title>
-      <link>https://somiew.github.io/categories/health/</link>
+      <link>http://localhost:1313/categories/health/</link>
       <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://somiew.github.io/categories/health/</guid>
+      <guid>http://localhost:1313/categories/health/</guid>
       <description></description>
     </item>
     <item>
       <title>Accessories</title>
-      <link>https://somiew.github.io/categories/accessories/</link>
+      <link>http://localhost:1313/categories/accessories/</link>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://somiew.github.io/categories/accessories/</guid>
+      <guid>http://localhost:1313/categories/accessories/</guid>
       <description></description>
     </item>
     <item>
       <title>Til</title>
-      <link>https://somiew.github.io/categories/til/</link>
+      <link>http://localhost:1313/categories/til/</link>
       <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://somiew.github.io/categories/til/</guid>
+      <guid>http://localhost:1313/categories/til/</guid>
       <description></description>
     </item>
   </channel>
