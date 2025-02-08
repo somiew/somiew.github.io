@@ -29,3 +29,4 @@ params:
   ShowReadingTime: true
   ShowCodeCopyButtons: true
   ShowPageNums: true
+  defaultTheme: dark
