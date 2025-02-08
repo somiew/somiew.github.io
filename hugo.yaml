@@ -8,17 +8,17 @@ enableEmoji: true
 
 menu:
   main:
+    - identifier: archives
+      name: archive
+      url: /archives/
+      weight: 10
     - identifier: tags
       name: tags
       url: /tags/
-      weight: 10
+      weight: 20
     - identifier: cara
       name: cara
       url: https://cara.app/samlimeshield/portfolio
-      weight: 20
-    - identifier: instagram
-      name: insta
-      url: https://www.instagram.com/samlimeshield/
       weight: 30
     - identifier: spotify
       name: spotify
