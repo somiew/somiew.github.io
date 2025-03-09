@@ -24,6 +24,10 @@ menu:
       name: spotify
       url: https://open.spotify.com/user/somiew?si=188e6be1167c4809
       weight: 40
+    - identifier: thingiverse
+      name: thingiverse
+      url: https://www.thingiverse.com/somiew/makes
+      weight: 50
       
 params:
   assets:
