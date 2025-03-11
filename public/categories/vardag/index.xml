@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Mtg on Lindskold</title>
-    <link>https://lindskold.se/tags/mtg/</link>
-    <description>Recent content in Mtg on Lindskold</description>
+    <title>Vardag on Lindskold</title>
+    <link>https://lindskold.se/categories/vardag/</link>
+    <description>Recent content in Vardag on Lindskold</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://lindskold.se/tags/mtg/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lindskold.se/categories/vardag/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vecka 10</title>
       <link>https://lindskold.se/posts/2025/vecka-10/</link>
@@ -21,13 +21,6 @@ Något kort här och där byttes ut, men den största
 &lt;a href=&#34;https://deckstats.net/decks/compare/2997919-33/2997919-34/en&#34;&gt;förändringen&lt;/a&gt; fick min
 &lt;a href=&#34;https://deckstats.net/decks/173463/2997919-graaz-wastes&#34;&gt;&amp;lsquo;Graaz Wastes&amp;rsquo;&lt;/a&gt;-lek.
 Som dessutom hann bli testad en match i söndags via Tabletop Simulator, där den skötte sig helt okej.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The 1 of 1 Ring</title>
-      <link>https://lindskold.se/posts/2023/the1of1ring/</link>
-      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/posts/2023/the1of1ring/</guid>
-      <description>&lt;p&gt;A couple days ago Wizards of the Coast revealed some cards for the new Lord of the Rings crossover set. One of which was &amp;ldquo;The One Ring&amp;rdquo;. &amp;ldquo;The One Ring&amp;rdquo;, is going to have a special &lt;em&gt;special&lt;/em&gt; edition - extended art with text in elvish (Quenya in Tengwar letterform to be exact, if that tells you anything you&amp;rsquo;re a huge NERD). This card, among some others, will be what they call serialized. Numbered card, that show exactly which card you got, from a limited print run.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
