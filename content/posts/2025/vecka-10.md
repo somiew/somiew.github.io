@@ -8,6 +8,8 @@ tags:
   - "svenska"
   - "mtg"
   - "trackmania"
+  - "drakborgen"
+  - "bugg"
 ---
 
 Tjenixen på er.
