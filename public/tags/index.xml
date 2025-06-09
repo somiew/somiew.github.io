@@ -2,171 +2,178 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Lindskold</title>
-    <link>https://lindskold.se/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Lindskold</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 17 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://lindskold.se/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Svenska</title>
+      <link>http://localhost:1313/tags/svenska/</link>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/svenska/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tågluff</title>
+      <link>http://localhost:1313/tags/t%C3%A5gluff/</link>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/t%C3%A5gluff/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Bugg</title>
-      <link>https://lindskold.se/tags/bugg/</link>
+      <link>http://localhost:1313/tags/bugg/</link>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/tags/bugg/</guid>
+      <guid>http://localhost:1313/tags/bugg/</guid>
       <description></description>
     </item>
     <item>
       <title>Dnd</title>
-      <link>https://lindskold.se/tags/dnd/</link>
+      <link>http://localhost:1313/tags/dnd/</link>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/tags/dnd/</guid>
+      <guid>http://localhost:1313/tags/dnd/</guid>
       <description></description>
     </item>
     <item>
       <title>Drakborgen</title>
-      <link>https://lindskold.se/tags/drakborgen/</link>
+      <link>http://localhost:1313/tags/drakborgen/</link>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/tags/drakborgen/</guid>
+      <guid>http://localhost:1313/tags/drakborgen/</guid>
       <description></description>
     </item>
     <item>
       <title>Mtg</title>
-      <link>https://lindskold.se/tags/mtg/</link>
+      <link>http://localhost:1313/tags/mtg/</link>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/tags/mtg/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Svenska</title>
-      <link>https://lindskold.se/tags/svenska/</link>
-      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/tags/svenska/</guid>
+      <guid>http://localhost:1313/tags/mtg/</guid>
       <description></description>
     </item>
     <item>
       <title>Trackmania</title>
-      <link>https://lindskold.se/tags/trackmania/</link>
+      <link>http://localhost:1313/tags/trackmania/</link>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/tags/trackmania/</guid>
+      <guid>http://localhost:1313/tags/trackmania/</guid>
       <description></description>
     </item>
     <item>
       <title>Vardag</title>
-      <link>https://lindskold.se/tags/vardag/</link>
+      <link>http://localhost:1313/tags/vardag/</link>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/tags/vardag/</guid>
+      <guid>http://localhost:1313/tags/vardag/</guid>
       <description></description>
     </item>
     <item>
       <title>Games</title>
-      <link>https://lindskold.se/tags/games/</link>
+      <link>http://localhost:1313/tags/games/</link>
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/tags/games/</guid>
+      <guid>http://localhost:1313/tags/games/</guid>
       <description></description>
     </item>
     <item>
       <title>Socialt</title>
-      <link>https://lindskold.se/tags/socialt/</link>
+      <link>http://localhost:1313/tags/socialt/</link>
       <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/tags/socialt/</guid>
+      <guid>http://localhost:1313/tags/socialt/</guid>
       <description></description>
     </item>
     <item>
       <title>Utmaning</title>
-      <link>https://lindskold.se/tags/utmaning/</link>
+      <link>http://localhost:1313/tags/utmaning/</link>
       <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/tags/utmaning/</guid>
+      <guid>http://localhost:1313/tags/utmaning/</guid>
       <description></description>
     </item>
     <item>
       <title>Hälsa</title>
-      <link>https://lindskold.se/tags/h%C3%A4lsa/</link>
+      <link>http://localhost:1313/tags/h%C3%A4lsa/</link>
       <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/tags/h%C3%A4lsa/</guid>
+      <guid>http://localhost:1313/tags/h%C3%A4lsa/</guid>
       <description></description>
     </item>
     <item>
       <title>Accessoaries</title>
-      <link>https://lindskold.se/tags/accessoaries/</link>
+      <link>http://localhost:1313/tags/accessoaries/</link>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/tags/accessoaries/</guid>
+      <guid>http://localhost:1313/tags/accessoaries/</guid>
       <description></description>
     </item>
     <item>
       <title>Blue-Tomato</title>
-      <link>https://lindskold.se/tags/blue-tomato/</link>
+      <link>http://localhost:1313/tags/blue-tomato/</link>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/tags/blue-tomato/</guid>
+      <guid>http://localhost:1313/tags/blue-tomato/</guid>
       <description></description>
     </item>
     <item>
       <title>Clothes</title>
-      <link>https://lindskold.se/tags/clothes/</link>
+      <link>http://localhost:1313/tags/clothes/</link>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/tags/clothes/</guid>
+      <guid>http://localhost:1313/tags/clothes/</guid>
       <description></description>
     </item>
     <item>
       <title>G-Shock</title>
-      <link>https://lindskold.se/tags/g-shock/</link>
+      <link>http://localhost:1313/tags/g-shock/</link>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/tags/g-shock/</guid>
+      <guid>http://localhost:1313/tags/g-shock/</guid>
       <description></description>
     </item>
     <item>
       <title>English</title>
-      <link>https://lindskold.se/tags/english/</link>
+      <link>http://localhost:1313/tags/english/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/tags/english/</guid>
+      <guid>http://localhost:1313/tags/english/</guid>
       <description></description>
     </item>
     <item>
       <title>Nintendo</title>
-      <link>https://lindskold.se/tags/nintendo/</link>
+      <link>http://localhost:1313/tags/nintendo/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/tags/nintendo/</guid>
+      <guid>http://localhost:1313/tags/nintendo/</guid>
       <description></description>
     </item>
     <item>
       <title>Pokemon</title>
-      <link>https://lindskold.se/tags/pokemon/</link>
+      <link>http://localhost:1313/tags/pokemon/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/tags/pokemon/</guid>
+      <guid>http://localhost:1313/tags/pokemon/</guid>
       <description></description>
     </item>
     <item>
       <title>Switch</title>
-      <link>https://lindskold.se/tags/switch/</link>
+      <link>http://localhost:1313/tags/switch/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/tags/switch/</guid>
+      <guid>http://localhost:1313/tags/switch/</guid>
       <description></description>
     </item>
     <item>
       <title>Thps</title>
-      <link>https://lindskold.se/tags/thps/</link>
+      <link>http://localhost:1313/tags/thps/</link>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/tags/thps/</guid>
+      <guid>http://localhost:1313/tags/thps/</guid>
       <description></description>
     </item>
     <item>
       <title>Avicii</title>
-      <link>https://lindskold.se/tags/avicii/</link>
+      <link>http://localhost:1313/tags/avicii/</link>
       <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/tags/avicii/</guid>
+      <guid>http://localhost:1313/tags/avicii/</guid>
       <description></description>
     </item>
     <item>
       <title>Mario</title>
-      <link>https://lindskold.se/tags/mario/</link>
+      <link>http://localhost:1313/tags/mario/</link>
       <pubDate>Fri, 10 Mar 2023 17:42:00 +0100</pubDate>
-      <guid>https://lindskold.se/tags/mario/</guid>
+      <guid>http://localhost:1313/tags/mario/</guid>
       <description></description>
     </item>
     <item>
       <title>Fh5</title>
-      <link>https://lindskold.se/tags/fh5/</link>
+      <link>http://localhost:1313/tags/fh5/</link>
       <pubDate>Tue, 07 Mar 2023 17:42:00 +0100</pubDate>
-      <guid>https://lindskold.se/tags/fh5/</guid>
+      <guid>http://localhost:1313/tags/fh5/</guid>
       <description></description>
     </item>
   </channel>

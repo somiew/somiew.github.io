@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Pokemon on Lindskold</title>
-    <link>https://lindskold.se/tags/pokemon/</link>
+    <link>http://localhost:1313/tags/pokemon/</link>
     <description>Recent content in Pokemon on Lindskold</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 04 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://lindskold.se/tags/pokemon/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/pokemon/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Old Pokémon Snap</title>
-      <link>https://lindskold.se/posts/2023/old-pokemon-snap/</link>
+      <link>http://localhost:1313/posts/2023/old-pokemon-snap/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/posts/2023/old-pokemon-snap/</guid>
+      <guid>http://localhost:1313/posts/2023/old-pokemon-snap/</guid>
       <description>&lt;p&gt;A week or two ago I started playing a game I&amp;rsquo;ve been thinking about playing ever since the sequel was announced, over 20 years after the first game. Pokémon Snap. Admittedly I first thought about buying the new game, &amp;lsquo;New Pokémon Snap&amp;rsquo;. But it felt a bit expensive for a rail shooter in 2021, especially since its coming from a game company that doesn&amp;rsquo;t really care. So I thought I&amp;rsquo;d wait for a while, see if the price dropped. Not very long after however, Nintendo announced that the original Pokémon Snap would come to Nintendo Online. So my plan changed, and I was to try the original first, and if I liked it, I would consider buying the new one.&lt;/p&gt;</description>
     </item>
   </channel>
