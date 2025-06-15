@@ -2,59 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Lindskold</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://lindskold.se/categories/</link>
     <description>Recent content in Categories on Lindskold</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 09 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lindskold.se/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nintendo</title>
+      <link>https://lindskold.se/categories/nintendo/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://lindskold.se/categories/nintendo/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Tågluff</title>
-      <link>http://localhost:1313/categories/t%C3%A5gluff/</link>
+      <link>https://lindskold.se/categories/t%C3%A5gluff/</link>
       <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/t%C3%A5gluff/</guid>
+      <guid>https://lindskold.se/categories/t%C3%A5gluff/</guid>
       <description></description>
     </item>
     <item>
       <title>Vardag</title>
-      <link>http://localhost:1313/categories/vardag/</link>
+      <link>https://lindskold.se/categories/vardag/</link>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/vardag/</guid>
+      <guid>https://lindskold.se/categories/vardag/</guid>
       <description></description>
     </item>
     <item>
       <title>Games</title>
-      <link>http://localhost:1313/categories/games/</link>
+      <link>https://lindskold.se/categories/games/</link>
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/games/</guid>
+      <guid>https://lindskold.se/categories/games/</guid>
       <description></description>
     </item>
     <item>
       <title>Social</title>
-      <link>http://localhost:1313/categories/social/</link>
+      <link>https://lindskold.se/categories/social/</link>
       <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/social/</guid>
+      <guid>https://lindskold.se/categories/social/</guid>
       <description></description>
     </item>
     <item>
       <title>Health</title>
-      <link>http://localhost:1313/categories/health/</link>
+      <link>https://lindskold.se/categories/health/</link>
       <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/health/</guid>
+      <guid>https://lindskold.se/categories/health/</guid>
       <description></description>
     </item>
     <item>
       <title>Accessories</title>
-      <link>http://localhost:1313/categories/accessories/</link>
+      <link>https://lindskold.se/categories/accessories/</link>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/accessories/</guid>
+      <guid>https://lindskold.se/categories/accessories/</guid>
       <description></description>
     </item>
     <item>
       <title>Til</title>
-      <link>http://localhost:1313/categories/til/</link>
+      <link>https://lindskold.se/categories/til/</link>
       <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/til/</guid>
+      <guid>https://lindskold.se/categories/til/</guid>
       <description></description>
     </item>
   </channel>

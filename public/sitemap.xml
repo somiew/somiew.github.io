@@ -2,159 +2,171 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://lindskold.se/categories/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lindskold.se/posts/2025/gameboy-advance-sp/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lindskold.se/tags/gba-sp/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lindskold.se/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lindskold.se/tags/nintendo/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lindskold.se/categories/nintendo/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lindskold.se/posts/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lindskold.se/tags/svenska/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lindskold.se/tags/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lindskold.se/tags/t%C3%A5gluff/</loc>
     <lastmod>2025-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://lindskold.se/categories/t%C3%A5gluff/</loc>
     <lastmod>2025-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://lindskold.se/posts/2025/tagluff-tyskland/</loc>
     <lastmod>2025-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/svenska/</loc>
+    <loc>https://lindskold.se/tags/youtube/</loc>
     <lastmod>2025-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/t%C3%A5gluff/</loc>
-    <lastmod>2025-06-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/t%C3%A5gluff/</loc>
-    <lastmod>2025-06-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/2025/tagluff-tyskland/</loc>
-    <lastmod>2025-06-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-06-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/bugg/</loc>
+    <loc>https://lindskold.se/tags/bugg/</loc>
     <lastmod>2025-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/dnd/</loc>
+    <loc>https://lindskold.se/tags/dnd/</loc>
     <lastmod>2025-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/drakborgen/</loc>
+    <loc>https://lindskold.se/tags/drakborgen/</loc>
     <lastmod>2025-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mtg/</loc>
+    <loc>https://lindskold.se/tags/mtg/</loc>
     <lastmod>2025-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/trackmania/</loc>
+    <loc>https://lindskold.se/tags/trackmania/</loc>
     <lastmod>2025-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/vardag/</loc>
+    <loc>https://lindskold.se/tags/vardag/</loc>
     <lastmod>2025-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/vardag/</loc>
+    <loc>https://lindskold.se/categories/vardag/</loc>
     <lastmod>2025-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/vecka-11/</loc>
+    <loc>https://lindskold.se/posts/2025/vecka-11/</loc>
     <lastmod>2025-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/vecka-10/</loc>
+    <loc>https://lindskold.se/posts/2025/vecka-10/</loc>
     <lastmod>2025-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/games/</loc>
+    <loc>https://lindskold.se/tags/games/</loc>
     <lastmod>2025-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/games/</loc>
+    <loc>https://lindskold.se/categories/games/</loc>
     <lastmod>2025-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/rullade-speleftertexter-2024/</loc>
+    <loc>https://lindskold.se/posts/2025/rullade-speleftertexter-2024/</loc>
     <lastmod>2025-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2024/117/</loc>
+    <loc>https://lindskold.se/posts/2024/117/</loc>
     <lastmod>2024-02-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/social/</loc>
+    <loc>https://lindskold.se/categories/social/</loc>
     <lastmod>2024-02-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/socialt/</loc>
+    <loc>https://lindskold.se/tags/socialt/</loc>
     <lastmod>2024-02-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/utmaning/</loc>
+    <loc>https://lindskold.se/tags/utmaning/</loc>
     <lastmod>2024-02-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2024/rullade-speleftertexter-2023/</loc>
+    <loc>https://lindskold.se/posts/2024/rullade-speleftertexter-2023/</loc>
     <lastmod>2024-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/h%C3%A4lsa/</loc>
+    <loc>https://lindskold.se/tags/h%C3%A4lsa/</loc>
     <lastmod>2023-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/health/</loc>
+    <loc>https://lindskold.se/categories/health/</loc>
     <lastmod>2023-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2023/jag-sprang/</loc>
+    <loc>https://lindskold.se/posts/2023/jag-sprang/</loc>
     <lastmod>2023-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/accessoaries/</loc>
+    <loc>https://lindskold.se/tags/accessoaries/</loc>
     <lastmod>2023-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/accessories/</loc>
+    <loc>https://lindskold.se/categories/accessories/</loc>
     <lastmod>2023-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2023/blue-tomato-g-shock/</loc>
+    <loc>https://lindskold.se/posts/2023/blue-tomato-g-shock/</loc>
     <lastmod>2023-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/blue-tomato/</loc>
+    <loc>https://lindskold.se/tags/blue-tomato/</loc>
     <lastmod>2023-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/clothes/</loc>
+    <loc>https://lindskold.se/tags/clothes/</loc>
     <lastmod>2023-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/g-shock/</loc>
+    <loc>https://lindskold.se/tags/g-shock/</loc>
     <lastmod>2023-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/english/</loc>
+    <loc>https://lindskold.se/tags/english/</loc>
     <lastmod>2023-06-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/nintendo/</loc>
+    <loc>https://lindskold.se/posts/2023/old-pokemon-snap/</loc>
     <lastmod>2023-06-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2023/old-pokemon-snap/</loc>
+    <loc>https://lindskold.se/tags/pokemon/</loc>
     <lastmod>2023-06-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/pokemon/</loc>
+    <loc>https://lindskold.se/tags/switch/</loc>
     <lastmod>2023-06-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/switch/</loc>
-    <lastmod>2023-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/thps/</loc>
+    <loc>https://lindskold.se/tags/thps/</loc>
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2023/thps1-2/</loc>
+    <loc>https://lindskold.se/posts/2023/thps1-2/</loc>
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/avicii/</loc>
+    <loc>https://lindskold.se/tags/avicii/</loc>
     <lastmod>2023-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2023/the-white-avicii-switch/</loc>
+    <loc>https://lindskold.se/posts/2023/the-white-avicii-switch/</loc>
     <lastmod>2023-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2023/the1of1ring/</loc>
+    <loc>https://lindskold.se/posts/2023/the1of1ring/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2023/co-star/</loc>
+    <loc>https://lindskold.se/posts/2023/co-star/</loc>
     <lastmod>2023-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/til/</loc>
+    <loc>https://lindskold.se/categories/til/</loc>
     <lastmod>2023-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2023/mar10/</loc>
+    <loc>https://lindskold.se/posts/2023/mar10/</loc>
     <lastmod>2023-03-10T17:42:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mario/</loc>
+    <loc>https://lindskold.se/tags/mario/</loc>
     <lastmod>2023-03-10T17:42:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/fh5/</loc>
+    <loc>https://lindskold.se/tags/fh5/</loc>
     <lastmod>2023-03-07T17:42:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2023/games_man/</loc>
+    <loc>https://lindskold.se/posts/2023/games_man/</loc>
     <lastmod>2023-03-07T17:42:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2023/hell-oh/</loc>
+    <loc>https://lindskold.se/posts/2023/hell-oh/</loc>
     <lastmod>2023-01-30T17:42:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://lindskold.se/archives/</loc>
   </url>
 </urlset>
