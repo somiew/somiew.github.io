@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Film on Lindskold</title>
+    <link>http://localhost:1313/tags/film/</link>
+    <description>Recent content in Film on Lindskold</description>
+    <generator>Hugo -- 0.139.0</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 10 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/film/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Podcasts</title>
+      <link>http://localhost:1313/posts/2025/poddar/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025/poddar/</guid>
+      <description>&lt;p&gt;Hallihallå allesammans,
+it&amp;rsquo;&lt;strong&gt;s a m&lt;/strong&gt;e, mario.&lt;/p&gt;
+&lt;p&gt;Inge försnack, vi går rätt in på dagens ämne, poddar.
+Som en person som jobbar med 100 % visuella saker, på en dator, utan att behöva (eller knappt kunna om jag ska fokusera) prata med folk,
+lyssnar jag på en hel del poddar (och musik, samt lite ljudböcker, men poddar är det viktiga här).
+Ibland när man tar upp det här så får man reaktionen &amp;ldquo;höhö poddar är ju bara snubbar som uttrycker kontroversiella åsikter&amp;rdquo;.
+Vilket för mig låter lite som &amp;ldquo;alla dataspel går ut på att döda&amp;rdquo; eller &amp;ldquo;det görs ingen bra musik längre, allt är dålig pop&amp;rdquo;.
+En ganska tråkig och selektiv världsbild helt enkelt.
+Så här kommer en lista med alla poddar jag följer samt en liten förklaring om dem.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

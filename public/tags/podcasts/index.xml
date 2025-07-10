@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Podcasts on Lindskold</title>
+    <link>http://localhost:1313/tags/podcasts/</link>
+    <description>Recent content in Podcasts on Lindskold</description>
+    <generator>Hugo -- 0.139.0</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 10 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/podcasts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Poddar</title>
+      <link>http://localhost:1313/posts/2025/poddar/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025/poddar/</guid>
+      <description>&lt;p&gt;Hallihallå allesammans,
+it&amp;rsquo;s a me, Sam.
+Idag ska vi snacka om ett ämne jag håller ganska nära hjärtat
+&lt;a href=&#34;https://youtu.be/vWikZ-u8pCI?si=2Z--R1zWzyI4gqX-&amp;amp;t=380&#34;&gt;batteritiden&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
