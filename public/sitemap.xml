@@ -2,16 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lindskold.se/tags/accessoaries/</loc>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lindskold.se/categories/accessories/</loc>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lindskold.se/categories/</loc>
-    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lindskold.se/tags/g-shock/</loc>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lindskold.se/posts/2025/klockuppdatering/</loc>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lindskold.se/</loc>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lindskold.se/posts/</loc>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lindskold.se/tags/svenska/</loc>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lindskold.se/tags/</loc>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lindskold.se/tags/film/</loc>
     <lastmod>2025-07-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lindskold.se/tags/humor/</loc>
-    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lindskold.se/</loc>
     <lastmod>2025-07-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lindskold.se/tags/podcast/</loc>
@@ -23,16 +44,7 @@
     <loc>https://lindskold.se/posts/2025/podcasts/</loc>
     <lastmod>2025-07-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lindskold.se/posts/</loc>
-    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lindskold.se/tags/spel/</loc>
-    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lindskold.se/tags/svenska/</loc>
-    <lastmod>2025-07-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lindskold.se/tags/</loc>
     <lastmod>2025-07-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lindskold.se/posts/2025/gameboy-advance-sp/</loc>
@@ -119,12 +131,6 @@
     <loc>https://lindskold.se/posts/2023/jag-sprang/</loc>
     <lastmod>2023-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lindskold.se/tags/accessoaries/</loc>
-    <lastmod>2023-06-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lindskold.se/categories/accessories/</loc>
-    <lastmod>2023-06-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lindskold.se/posts/2023/blue-tomato-g-shock/</loc>
     <lastmod>2023-06-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -132,9 +138,6 @@
     <lastmod>2023-06-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lindskold.se/tags/clothes/</loc>
-    <lastmod>2023-06-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lindskold.se/tags/g-shock/</loc>
     <lastmod>2023-06-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lindskold.se/tags/english/</loc>

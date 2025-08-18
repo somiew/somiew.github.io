@@ -13,7 +13,7 @@ tags:
 
 I vintras fastnade jag för en ny klädbutik. Blue Tomato. Jag gillar typ hela deras utbud. Kanske inte ALLT, och jag tror ju absolut inte att jag PASSAR i allt. Men mycket av det kan jag ändå uppskatta. En av dessa saker, som har etsat sig fast i min hjärna, är en klocka.
 
-[G-SHOCK DW-5610DN-9ER](https://www.blue-tomato.com/sv-SE/product/G+SHOCK-DW+5610DN+9ER+Klocka-632414/?varid=304384693), eller som butikspersonalen refererar till den, legoklockan. En klassisk digital G-Shock med en stor skillnad. Färgen. Istället för svart är den: röd, gul, grön, orange, lila och ljusblå. Med en digital display av svart på vitt. Man kan lätt förstå var namnet 'legoklockan' har sitt ursprung, då det ser ut som om någon har byggt ihop den av färgglada bitar.
+[G-SHOCK DW-5610DN-9ER](https://www.casio.com/intl/watches/gshock/product.DW-5610DN-9/), eller som butikspersonalen refererar till den, legoklockan. En klassisk digital G-Shock med en stor skillnad. Färgen. Istället för svart är den: röd, gul, grön, orange, lila och ljusblå. Med en digital display av svart på vitt. Man kan lätt förstå var namnet 'legoklockan' har sitt ursprung, då det ser ut som om någon har byggt ihop den av färgglada bitar.
 
 Vad som gör den speciell i mina ögon är just att det är en G-Shock. Om det var en lite mindre, fortfarande lika plastig klocka, av ett annat märke, hade den nog bara känts barnslig. Men nu är det en stötsäker klocka som klarar ett djup på 200m, trots sitt barnsliga utseende. Har man en sportig 90-tals vibe så kan man lätt klara av att bära upp den, utan att det ser ut som om man lät ens barn välja vilken klocka man skulle ha.
 

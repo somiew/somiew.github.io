@@ -6,8 +6,15 @@
     <description>Recent content in Categories on Lindskold</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lindskold.se/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accessories</title>
+      <link>https://lindskold.se/categories/accessories/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://lindskold.se/categories/accessories/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Podcasts</title>
       <link>https://lindskold.se/categories/podcasts/</link>
@@ -55,13 +62,6 @@
       <link>https://lindskold.se/categories/health/</link>
       <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://lindskold.se/categories/health/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Accessories</title>
-      <link>https://lindskold.se/categories/accessories/</link>
-      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/categories/accessories/</guid>
       <description></description>
     </item>
     <item>
