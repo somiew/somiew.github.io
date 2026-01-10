@@ -6,12 +6,19 @@
     <description>Recent content in Tags on Lindskold</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 04 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lindskold.se/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Games</title>
+      <link>https://lindskold.se/tags/games/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://lindskold.se/tags/games/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Svenska</title>
       <link>https://lindskold.se/tags/svenska/</link>
-      <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://lindskold.se/tags/svenska/</guid>
       <description></description>
     </item>
@@ -125,13 +132,6 @@
       <link>https://lindskold.se/tags/vardag/</link>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://lindskold.se/tags/vardag/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Games</title>
-      <link>https://lindskold.se/tags/games/</link>
-      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/tags/games/</guid>
       <description></description>
     </item>
     <item>
