@@ -2,31 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Svenska on Lindskold</title>
-    <link>http://localhost:1313/tags/svenska/</link>
+    <link>https://lindskold.se/tags/svenska/</link>
     <description>Recent content in Svenska on Lindskold</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/svenska/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lindskold.se/tags/svenska/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Rullade speleftertexter 2025</title>
-      <link>http://localhost:1313/posts/2026/ett-halv%C3%A5r-med-steam-deck/</link>
-      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2026/ett-halv%C3%A5r-med-steam-deck/</guid>
-      <description>&lt;p&gt;Det blev en del spel i år. En sisådär 17 för att vara exakt. Vissa längre, vissa kortare, men inga superlånga. Men den stora frågan är ju, kom jag igenom spelen jag ville komma igenom?&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Baldur’s Gate 3 (nej)&lt;/li&gt;
-&lt;li&gt;Tetris Effect: Connected (jajemän)&lt;/li&gt;
-&lt;li&gt;51 Worldwide Games (nope)&lt;/li&gt;
-&lt;li&gt;Split Fiction (nej igen)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Bara 1/4 förvisso, men inte så illa ändå. Hade gärna kommit igenom Baldur’s Gate med, men 51 Worldwide Games känns rätt oväsentligt. Även Split Fiction hade ju varit kul att komma igenom någon gång, men inte så ledsen om det aldrig blir av, har ändå spelat vad som måste vara den absolut bästa delen!&lt;/p&gt;</description>
+      <title>Ett halvår med Steam Deck</title>
+      <link>https://lindskold.se/posts/2026/ett-halvar-med-steam-deck/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://lindskold.se/posts/2026/ett-halvar-med-steam-deck/</guid>
+      <description>&lt;p&gt;Måndag kväll efter gymmet (ja, jag började skriva då) och man vill ju egentligen inte annat än att sätta sig vid &lt;a href=&#34;https://trackmania.io/#/player/b6c6360b-05a2-4767-995a-c6460e16c5f0/summary&#34;&gt;&lt;em&gt;Trackmania&lt;/em&gt; (2020)&lt;/a&gt; för att fixa lite vettiga tider på veckans &amp;lsquo;shorts&amp;rsquo;. Men när två kompisar individuellt från varandra klagar på att det var längesedan jag publicerade något, är det lika bra att sätta sig vid tangentbordet så snart som möjligt. Jag har ändå lite grejer jag skulle kunna skriva om. (hint hint, kanske kommer fler rätt snart&amp;hellip; men å andra sidan tog det mig en hel arbetsvecka att få ut denna, så hoppas kanske inte på för mycket)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rullade speleftertexter 2025</title>
-      <link>http://localhost:1313/posts/2026/rullade-speleftertexter-2025/</link>
+      <link>https://lindskold.se/posts/2026/rullade-speleftertexter-2025/</link>
       <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2026/rullade-speleftertexter-2025/</guid>
+      <guid>https://lindskold.se/posts/2026/rullade-speleftertexter-2025/</guid>
       <description>&lt;p&gt;Det blev en del spel i år. En sisådär 17 för att vara exakt. Vissa längre, vissa kortare, men inga superlånga. Men den stora frågan är ju, kom jag igenom spelen jag ville komma igenom?&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Baldur’s Gate 3 (nej)&lt;/li&gt;
@@ -38,9 +31,9 @@
     </item>
     <item>
       <title>Tågluff: Del 2 - Schweiz</title>
-      <link>http://localhost:1313/posts/2025/tagluff-schweiz/</link>
+      <link>https://lindskold.se/posts/2025/tagluff-schweiz/</link>
       <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025/tagluff-schweiz/</guid>
+      <guid>https://lindskold.se/posts/2025/tagluff-schweiz/</guid>
       <description>&lt;p&gt;Som ni alla väntat, här är den. Del 2!&lt;/p&gt;
 
 
@@ -52,9 +45,9 @@
     </item>
     <item>
       <title>Klockor - två år senare</title>
-      <link>http://localhost:1313/posts/2025/klockuppdatering/</link>
+      <link>https://lindskold.se/posts/2025/klockuppdatering/</link>
       <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025/klockuppdatering/</guid>
+      <guid>https://lindskold.se/posts/2025/klockuppdatering/</guid>
       <description>&lt;p&gt;Lite över två år sedan jag skrev mitt lilla inlägg om klockor, så jag tänkte att jag skulle uppdatera er om vad jag har, vad jag använder nu för tiden och vad jag är sugen på att införskaffa.&lt;/p&gt;
 &lt;p&gt;En kort recap på var jag var för två år sedan; jag hade skaffat en
 &lt;a href=&#34;https://www.casio.com/europe/watches/casio/product.A158WETB-1A/&#34;&gt;CASIO A158WETB-1AEF&lt;/a&gt;
@@ -63,9 +56,9 @@ som första klocka, för att testa om det ens var något jag skulle använda. N�
     </item>
     <item>
       <title>Podcasts</title>
-      <link>http://localhost:1313/posts/2025/podcasts/</link>
+      <link>https://lindskold.se/posts/2025/podcasts/</link>
       <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025/podcasts/</guid>
+      <guid>https://lindskold.se/posts/2025/podcasts/</guid>
       <description>&lt;p&gt;Hallihallå allesammans,
 it&amp;rsquo;&lt;strong&gt;s a m&lt;/strong&gt;e, mario.&lt;/p&gt;
 &lt;p&gt;Inge försnack, vi går rätt in på dagens ämne, poddar.
@@ -78,9 +71,9 @@ Så här kommer en lista med alla poddar jag följer för tillfället, samt en k
     </item>
     <item>
       <title>Gameboy Advance SP</title>
-      <link>http://localhost:1313/posts/2025/gameboy-advance-sp/</link>
+      <link>https://lindskold.se/posts/2025/gameboy-advance-sp/</link>
       <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025/gameboy-advance-sp/</guid>
+      <guid>https://lindskold.se/posts/2025/gameboy-advance-sp/</guid>
       <description>&lt;p&gt;Whaaats&amp;rsquo;up?&lt;/p&gt;
 &lt;p&gt;För några veckor sedan gjorde jag ett impulsköp av ett Gameboy Advance SP,
 då en polare lyckades få tag i 3 gameboys till ett hyffsat bra pris.
@@ -96,9 +89,9 @@ Medan originalskärmen kan stänga av belysningen helt, för att man ska kunna a
     </item>
     <item>
       <title>Tågluff: Del 1 - Tyskland</title>
-      <link>http://localhost:1313/posts/2025/tagluff-tyskland/</link>
+      <link>https://lindskold.se/posts/2025/tagluff-tyskland/</link>
       <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025/tagluff-tyskland/</guid>
+      <guid>https://lindskold.se/posts/2025/tagluff-tyskland/</guid>
       <description>&lt;p&gt;&amp;lsquo;Ello!
 Borde laddat upp denna tidigare här, men men, here it is!&lt;/p&gt;
 
@@ -111,9 +104,9 @@ Borde laddat upp denna tidigare här, men men, here it is!&lt;/p&gt;
     </item>
     <item>
       <title>Vecka 11</title>
-      <link>http://localhost:1313/posts/2025/vecka-11/</link>
+      <link>https://lindskold.se/posts/2025/vecka-11/</link>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025/vecka-11/</guid>
+      <guid>https://lindskold.se/posts/2025/vecka-11/</guid>
       <description>&lt;p&gt;Halli hallå!&lt;/p&gt;
 &lt;p&gt;Måndag morgon. Började svagt, beställde inga magic-kort innan arbetsdagen började.
 Inte heller när den slutat. Men räds icke, det blev en nördig måndagkväll i Wizards of the Coasts namn ändå.
@@ -124,9 +117,9 @@ Det hela avslutades med en strid kring ett molntäckt vattenhål där en trollka
     </item>
     <item>
       <title>Vecka 10</title>
-      <link>http://localhost:1313/posts/2025/vecka-10/</link>
+      <link>https://lindskold.se/posts/2025/vecka-10/</link>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025/vecka-10/</guid>
+      <guid>https://lindskold.se/posts/2025/vecka-10/</guid>
       <description>&lt;p&gt;Tjenixen på er.&lt;/p&gt;
 &lt;p&gt;Måndag morgon. Började starkt med att jag satte mig och beställde lite magic-kort innan arbetsdagen började.
 Har på något sätt alltid en liten lista med uppgraderingar som skulle kunna vara bra i diverse kortlekar.
@@ -138,9 +131,9 @@ Som dessutom hann bli testad en match i söndags via Tabletop Simulator, där de
     </item>
     <item>
       <title>Rullade speleftertexter 2024</title>
-      <link>http://localhost:1313/posts/2025/rullade-speleftertexter-2024/</link>
+      <link>https://lindskold.se/posts/2025/rullade-speleftertexter-2024/</link>
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025/rullade-speleftertexter-2024/</guid>
+      <guid>https://lindskold.se/posts/2025/rullade-speleftertexter-2024/</guid>
       <description>&lt;p&gt;2022 - 8 spel&lt;br&gt;
 2023 - 5 spel&lt;br&gt;
 2024 - BAM! 13 spel&lt;/p&gt;
@@ -158,9 +151,9 @@ Med det sagt, låt oss gå in lite kort på spelen jag faktiskt slutförde.&lt;/
     </item>
     <item>
       <title>117</title>
-      <link>http://localhost:1313/posts/2024/117/</link>
+      <link>https://lindskold.se/posts/2024/117/</link>
       <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2024/117/</guid>
+      <guid>https://lindskold.se/posts/2024/117/</guid>
       <description>&lt;p&gt;I slutet av december fick jag upp lite randomly upp en challange på Youtube, prata med 100 personer inom spannet av en månad. Den var väl mer menad för folk som känner att de lever i sin egna bubbla framför en skärm, men vad vet jag, det kanske faktiskt skulle tvinga mig till att bli mer social.&lt;/p&gt;
 &lt;p&gt;Regler&lt;br&gt;
 Det måste finnas dialog.&lt;br&gt;
@@ -170,9 +163,9 @@ I gruppsamtal räknas endast de man har 1-på-1 konversationer med.&lt;/p&gt;</d
     </item>
     <item>
       <title>Rullade speleftertexter 2023</title>
-      <link>http://localhost:1313/posts/2024/rullade-speleftertexter-2023/</link>
+      <link>https://lindskold.se/posts/2024/rullade-speleftertexter-2023/</link>
       <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2024/rullade-speleftertexter-2023/</guid>
+      <guid>https://lindskold.se/posts/2024/rullade-speleftertexter-2023/</guid>
       <description>&lt;p&gt;Tillskillnad från 2022, då jag rullade eftertexter i hela åtta spel, blev det bara fem i år.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Diablo IV&lt;/em&gt; (2023)&lt;br&gt;
 Spelade på release, fram till jag blev klar med det. Mer eller mindre. Någon kort paus på en vecka mitt i tror jag.&lt;/p&gt;
@@ -181,18 +174,18 @@ Fanns via Netflix, jag och Jasmine körde igenom det samtidigt, på varsin telef
     </item>
     <item>
       <title>Jag sprang!</title>
-      <link>http://localhost:1313/posts/2023/jag-sprang/</link>
+      <link>https://lindskold.se/posts/2023/jag-sprang/</link>
       <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023/jag-sprang/</guid>
+      <guid>https://lindskold.se/posts/2023/jag-sprang/</guid>
       <description>&lt;p&gt;För 3 veckor sedan fick jag en &amp;lsquo;&lt;em&gt;fix idé&lt;/em&gt;&amp;rsquo;, en &amp;lsquo;&lt;em&gt;dille&lt;/em&gt;&amp;rsquo; så att säga, en riktig &amp;lsquo;&lt;em&gt;käpphäst&lt;/em&gt;&amp;rsquo;. Ni vet, en &amp;lsquo;&lt;em&gt;mono-mani&lt;/em&gt;&amp;rsquo;. Vi var ute på stan när jag fick syn på en banderoll som gjorde reklam för &lt;a href=&#34;https://malmoloppet.se/&#34;&gt;Malmöloppet&lt;/a&gt;. Jag berättade för min partner att jag var lite sugen på att skriva upp mig, för att&amp;hellip; Varför inte? Jag har aldrig sprungit något stadslopp förr. Motfrågan jag fick var:&lt;br&gt;
 - Hur långt får det max vara för att du ska LOVA att göra det?&lt;br&gt;
 Dum som jag är tänkte jag att loppet självklart är 10 km, jag kan väl helt enkelt säga hälften? 5 km.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blue Tomato &amp; G-Shock</title>
-      <link>http://localhost:1313/posts/2023/blue-tomato-g-shock/</link>
+      <link>https://lindskold.se/posts/2023/blue-tomato-g-shock/</link>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023/blue-tomato-g-shock/</guid>
+      <guid>https://lindskold.se/posts/2023/blue-tomato-g-shock/</guid>
       <description>&lt;p&gt;I vintras fastnade jag för en ny klädbutik. Blue Tomato. Jag gillar typ hela deras utbud. Kanske inte ALLT, och jag tror ju absolut inte att jag PASSAR i allt. Men mycket av det kan jag ändå uppskatta. En av dessa saker, som har etsat sig fast i min hjärna, är en klocka.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.casio.com/intl/watches/gshock/product.DW-5610DN-9/&#34;&gt;G-SHOCK DW-5610DN-9ER&lt;/a&gt;, eller som butikspersonalen refererar till den, legoklockan. En klassisk digital G-Shock med en stor skillnad. Färgen. Istället för svart är den: röd, gul, grön, orange, lila och ljusblå. Med en digital display av svart på vitt. Man kan lätt förstå var namnet &amp;rsquo;legoklockan&amp;rsquo; har sitt ursprung, då det ser ut som om någon har byggt ihop den av färgglada bitar.&lt;/p&gt;</description>
     </item>

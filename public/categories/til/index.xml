@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Til on Lindskold</title>
-    <link>http://localhost:1313/categories/til/</link>
+    <link>https://lindskold.se/categories/til/</link>
     <description>Recent content in Til on Lindskold</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/til/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lindskold.se/categories/til/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Co - Star</title>
-      <link>http://localhost:1313/posts/2023/co-star/</link>
+      <link>https://lindskold.se/posts/2023/co-star/</link>
       <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023/co-star/</guid>
+      <guid>https://lindskold.se/posts/2023/co-star/</guid>
       <description>&lt;p&gt;Today I learned about Co-Star, and therefore, so will you!&lt;br&gt;
 It&amp;rsquo;s an astrology app, and just like many others like it, it gives the user a daily horoscope. But this one is special, because this one is &amp;ldquo;based on science&amp;rdquo;. It uses data from &lt;a href=&#34;https://www.jpl.nasa.gov/&#34;&gt;NASA JPL&lt;/a&gt; and the &amp;ldquo;magic of dates and AI&amp;rdquo;, to find patterns and create horoscopes. Created by Banu Guler, a woman who, ackording to Wikipedia, once brought an astrological chart to a baby shower, where she noticed it was such a hit, she decided to create an app for it. 🤷. Wild stuff. She does however have a killer &lt;a href=&#34;https://banuguler.com/&#34;&gt;website&lt;/a&gt;, so go check that one out!&lt;/p&gt;</description>
     </item>
