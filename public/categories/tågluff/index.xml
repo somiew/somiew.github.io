@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tågluff on Lindskold</title>
-    <link>https://lindskold.se/categories/t%C3%A5gluff/</link>
+    <link>http://localhost:1313/categories/t%C3%A5gluff/</link>
     <description>Recent content in Tågluff on Lindskold</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 04 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://lindskold.se/categories/t%C3%A5gluff/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/t%C3%A5gluff/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tågluff: Del 2 - Schweiz</title>
-      <link>https://lindskold.se/posts/2025/tagluff-schweiz/</link>
+      <link>http://localhost:1313/posts/2025/tagluff-schweiz/</link>
       <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/posts/2025/tagluff-schweiz/</guid>
+      <guid>http://localhost:1313/posts/2025/tagluff-schweiz/</guid>
       <description>&lt;p&gt;Som ni alla väntat, här är den. Del 2!&lt;/p&gt;
 
 
@@ -24,9 +24,9 @@
     </item>
     <item>
       <title>Tågluff: Del 1 - Tyskland</title>
-      <link>https://lindskold.se/posts/2025/tagluff-tyskland/</link>
+      <link>http://localhost:1313/posts/2025/tagluff-tyskland/</link>
       <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/posts/2025/tagluff-tyskland/</guid>
+      <guid>http://localhost:1313/posts/2025/tagluff-tyskland/</guid>
       <description>&lt;p&gt;&amp;lsquo;Ello!
 Borde laddat upp denna tidigare här, men men, here it is!&lt;/p&gt;
 

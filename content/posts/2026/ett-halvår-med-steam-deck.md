@@ -1,0 +1,22 @@
+---
+title: "Ett halvår med Steam Deck"
+date: "2026-05-01"
+categories:
+  - "games"
+tags:
+  - "games"
+  - "svenska"
+  - "trackmania"
+---
+ 
+Måndag kväll efter gymmet (ja, jag började skriva då) och man vill ju egentligen inte annat än att sätta sig vid [_Trackmania_ (2020)](https://trackmania.io/#/player/b6c6360b-05a2-4767-995a-c6460e16c5f0/summary) för att fixa lite vettiga tider på veckans 'shorts'. Men när två kompisar individuellt från varandra klagar på att det var längesedan jag publicerade något, är det lika bra att sätta sig vid tangentbordet så snart som möjligt. Jag har ändå lite grejer jag skulle kunna skriva om. (hint hint, kanske kommer fler rätt snart... men å andra sidan tog det mig en hel arbetsvecka att få ut denna, så hoppas kanske inte på för mycket)
+
+Först ut kommer här en liten review om min tid med Valves Steam Deck. Haft den i ganska exakt ett halvår och ångrar nästan att jag inte skaffade en tidigare. Anledningen till att jag faktiskt slog till när jag gjorde, är inte svårare än att det var 20 % rea på [lcd-varianten med 256 gb](https://www.steamdeck.com/sv/deck) internt minne. Betalade 335 € istället för 419 €. 
+
+Efter att ha haft en Nintendo Switch är uppgraderingen enorm. Till och börja med är den skön att hålla i, trots att den både är större och tyngre. Utformad mer för att vara ergonomisk än portabel. Vilket också är till dess nackdel. Switchen är enklare att ta med sig. Istället för att packa ned en halv laptop i väskan (som det ungefär är när jag packar switchen), tar Steam Decken i sitt etui upp en tredjedel av hela väskan. Vilket mer kan liknas med att packa en 2 liters Dr. Pepper. Till storlek, inte till vikt. Den må vara tung, men med sina 640 gram, inte riktigt så tung.
+
+Stort plus nr. 2, är hur mycket starkare den är. Ett av de första spelen jag installerade var [_Spider-Man Remastered_ (2022)](https://store.steampowered.com/app/1817070/Marvels_SpiderMan_Remastered/), som flöt oerhört bra och samtidigt var väldigt snyggt. [_Ratchet & Clank: Rift Apart_ (2023)](https://store.steampowered.com/app/1895880/Ratchet__Clank_Rift_Apart/) installerades kort därpå och var jättetrevligt att ha handhållet. Så pass så, att jag tog mig igenom majoriteten av spelet på det viset. I övrigt har det blivit en hel del spel som också finns på switchet. Den stora fördelen är då att det går att köra från samma sparning direkt på datorn. Minuset är väl istället att det inte är lika lätt att koppla till tvn, men det går att lösa genom att införskaffa en [dockningsstation](https://store.steampowered.com/steamdeckdock). Det har bara inte hänt än, men det kommer.
+
+Tänk att kunna spela Trackmania vid tvn, splitscreen 1v1! Drömmen om att spela Trackmania handhållet var en av de bidragande faktorerna som promptade mig att skaffa en Deck till att börja med. Det har tyvärr visat sig att det inte är så fantastiskt som jag hoppats. Då jag, i alla fall i Trackmania, inte bryr mig alls om det visuella, så har jag ställt ned all grafik till low. Men det är något som gör att det ändå inte funkar. Kan vara den lilla skärmen, eller att jag är väldigt ovan vid Valves joysticks, men jag tror att det är något annat. Det känns mer flytande, inte på ett positivt sätt då alltså, utan mer som att man styr något som flyter. Jag spelar det fortfarande då och då, när jag cravear Trackmania och inte har tillgång till datorn, men det duger för det mesta bara till små korta 10 sekunders banor. Vilket ändå är bättre än inget. Eller för den delen, bättre än [_TrackMania DS_ (2008)](https://www.youtube.com/watch?v=z-_uiVLAWc4) och [_TrackMania Turbo (DS)_ (2010)](https://www.youtube.com/watch?v=qCkujs-_LfE) som var mina enda två handhållna alternativ sedan tidigare.
+
+Det absolut tråkigaste med Steam Decken, är det faktum att jag inte använder den så ofta som jag skulle vilja. Den är toppen på små resor, över jul, eller semestern när man är hemma hos familjen. Men på längre resor är den för stor och bulkig, och i vardagen, när jag är hemma, kan jag ju lika gärna sätta mig vid datorn med en kontroll i handen. Visst, någon gång då och då är det skönt att kunna lägga sig i soffan och ändå kunna lira vissa spel som bara finns på steam, eller kanske någon helgdag ligga kvar lite extra länge i sängen på morgonen, för att köra någon match i nått fighting-spel. Trots detta ångrar jag faktiskt inte en sekund att jag införskaffade den. Jag rekommenderar de till och med. Ja, om du hittar en begagnad antar jag. Eller om den kommer in i lager igen snart :)
