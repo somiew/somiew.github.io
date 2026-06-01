@@ -6,12 +6,26 @@
     <description>Recent content in Tags on Lindskold</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 11 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lindskold.se/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>English</title>
+      <link>https://lindskold.se/tags/english/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://lindskold.se/tags/english/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Forza Horizon</title>
+      <link>https://lindskold.se/tags/forza-horizon/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://lindskold.se/tags/forza-horizon/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Games</title>
       <link>https://lindskold.se/tags/games/</link>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://lindskold.se/tags/games/</guid>
       <description></description>
     </item>
@@ -177,13 +191,6 @@
       <description></description>
     </item>
     <item>
-      <title>English</title>
-      <link>https://lindskold.se/tags/english/</link>
-      <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/tags/english/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Pokemon</title>
       <link>https://lindskold.se/tags/pokemon/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
@@ -216,13 +223,6 @@
       <link>https://lindskold.se/tags/mario/</link>
       <pubDate>Fri, 10 Mar 2023 17:42:00 +0100</pubDate>
       <guid>https://lindskold.se/tags/mario/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fh5</title>
-      <link>https://lindskold.se/tags/fh5/</link>
-      <pubDate>Tue, 07 Mar 2023 17:42:00 +0100</pubDate>
-      <guid>https://lindskold.se/tags/fh5/</guid>
       <description></description>
     </item>
   </channel>
