@@ -30,7 +30,7 @@ which houses artists such as Ado, KANA-BOON and YAOSOBI.
 
 There are obviously also a lot of Japanese cars. Unfortunately, they've also cut back on Swedish cars :/ 
 There's only the Volvo 242 Turbo Evolution from 1983, which is quite the step-down from FH5s 4 Volvos. 
-Like, at least one modern one would have been nice. Another notable car that's missing is the Toyota Yaris from ca 2003. 
+Like, at least one modern one would have been nice. Another notable car that's missing is the Toyota Yaris from ca. 2003. 
 There's a newer model, sure, but it's not the same thing 🤷
 
 {{< youtube hSN6-AMdDOo>}}

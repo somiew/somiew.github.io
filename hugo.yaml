@@ -16,18 +16,15 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: cara
-      name: cara
-      url: https://cara.app/samlimeshield/portfolio
+    - identifier: letterboxd
+      name: letterboxd
+      url: https://letterboxd.com/somiew/
       weight: 30
-    - identifier: spotify
-      name: spotify
-      url: https://open.spotify.com/user/somiew?si=188e6be1167c4809
+    - identifier: imdb
+      name: imdb
+      url: https://www.imdb.com/name/nm11081095/
       weight: 40
-    - identifier: thingiverse
-      name: thingiverse
-      url: https://www.thingiverse.com/somiew/makes
-      weight: 50
+
       
 params:
   assets:
