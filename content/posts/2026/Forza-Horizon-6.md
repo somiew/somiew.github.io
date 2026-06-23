@@ -2,6 +2,8 @@
 date: '2026-06-01'
 draft: false
 title: 'Forza Horizon 6'
+categories:
+  - "games"
 tags: ["english", "forza horizon", "games"]
 
 ---

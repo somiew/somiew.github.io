@@ -2,6 +2,8 @@
 date: '2026-06-13'
 draft: false
 title: 'New Shoes - Hoff this?'
+categories:
+  - "vardag"
 tags: ["svenska", "clothes"]
 
 ---
