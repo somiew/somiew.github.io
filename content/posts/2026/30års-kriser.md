@@ -35,7 +35,7 @@ Supertrevligt, läs hur mycket serier som helst, för en månadskostnad av 85 kr
 Så nu har jag också tagit mig igenom _Absolute Superman_ (2024), 
 _Absolute Wonder Woman_ (2024) och idag blev jag klar med _Supergirl: Woman of Tomorrow_ (2021) (OTROLIG btw!) samt påbörjade _Ultimate Spider-Man_ (2024).
 Problemet nu är att man känner för att köpa dem ändå, bara för att ha dem fysiskt. 
-Kunna bläddra och titta på fina bilder. Men jag försöker spara det till nästa Batman. Men Supergirl ligger farligt till. 
+Kunna bläddra och titta på fina bilder. Jag försöker spara det till nästa Batman. Men Supergirl ligger farligt till. 
 Bilquis Evelys artstyle GOES HARD!
 
 ![Supergirl sitting on the beach, empty eyes, blood in the water](https://static.wikia.nocookie.net/marvel_dc/images/9/95/Supergirl_Woman_of_Tomorrow_Vol_1_8.jpg)
