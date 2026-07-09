@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Film on Lindskold</title>
-    <link>https://lindskold.se/tags/film/</link>
+    <link>https://lindskold.se/categories/film/</link>
     <description>Recent content in Film on Lindskold</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://lindskold.se/tags/film/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lindskold.se/categories/film/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Top tio filmer jag såg 2025</title>
       <link>https://lindskold.se/posts/2026/top-10-filmer-2025/</link>
@@ -19,21 +19,6 @@ Top tio filmer jag såg 2025.&lt;/p&gt;
 &lt;p&gt;först ut&lt;/p&gt;
 &lt;h3 id=&#34;10-_the-princess-bride_-1987&#34;&gt;10 &lt;em&gt;The Princess Bride&lt;/em&gt; (1987)&lt;/h3&gt;
 &lt;p&gt;Verkligen min typ av humor! Om jag minns rätt har den en del saker som inte riktigt funkar. Men den är så rolig och har så ikoniska repliker att det väger upp.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Podcasts</title>
-      <link>https://lindskold.se/posts/2025/podcasts/</link>
-      <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/posts/2025/podcasts/</guid>
-      <description>&lt;p&gt;Hallihallå allesammans,
-it&amp;rsquo;&lt;strong&gt;s a m&lt;/strong&gt;e, mario.&lt;/p&gt;
-&lt;p&gt;Inge försnack, vi går rätt in på dagens ämne, poddar.
-Som en person som jobbar med 100 % visuell feedback, på en dator, utan att behöva (eller knappt kunna om jag ska fokusera) prata med folk,
-lyssnar jag på en hel del poddar (och musik, samt lite ljudböcker, men poddar är det viktiga just nu).
-Ibland när man tar upp det här så får man reaktionen &amp;ldquo;höhö poddar är ju bara snubbar som uttrycker kontroversiella åsikter&amp;rdquo;.
-Vilket för mig låter lite som &amp;ldquo;alla dataspel går ut på att döda&amp;rdquo; eller &amp;ldquo;det görs ingen bra musik längre, allt är dålig pop&amp;rdquo;.
-En ganska tråkig och selektiv världsbild helt enkelt.
-Så här kommer en lista med alla poddar jag följer för tillfället, samt en kort förklaring om dem.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
