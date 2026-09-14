@@ -15,7 +15,7 @@ Jag gick och skaffade mig två 30-årskriser. Att hålla mig till en hobby i tag
 
 ## Kris 1
 Ännu en gång anmält mig till ett lopp. Detta gång fick jag med mig en kompis. Midnattsloppet - 5 km. 
-Vi har anmält att vi springer det på mindre än 35 minuter. Vilket känns rimligt då jag för 2 år sedan sprang 5 km på 33 min. 
+Vi har anmält att vi springer det på mindre än 35 minuter. Vilket känns rimligt då jag för 3 år sedan sprang 5 km på 33 min. 
 Att jag inte sprungit sedan dess (mer än som uppvärmning på gymmet någon gång då och då) är en annan femma. 
 Och tillskillnad från sist har jag faktiskt lite bättre framförhållning den här gången, då det inte äger rum förrän i slutet på augusti.
 
