@@ -9,7 +9,7 @@ tags:
   - "top-10"
 ---
 
-Jasmine asked me recently which games I've spent the most time in. Herself having over 1500 hours in The Sims 4. Thing is, I don't spend that much time in singular games. I've rolled credits in almost 20 games so far this year, and that's not possible if I'm to get stuck in games for hundreds and hundreds of hours in single games. Besides, I often think games are too long. 8 - 12 hour games are perfect. That said, there are some games that have managed to hold my attention for longer. 
+Jasmine asked me recently which games I've spent the most time in. Herself having over 1500 hours in The Sims 4. Thing is, I don't spend that much time in singular games. I've rolled credits in almost 20 games so far *this year*, and that's not possible if I'm to get stuck in games for hundreds and hundreds of hours. Besides, I often think games are too long. 8 - 12 hour games are perfect. That said, there are some games that have managed to hold my attention for longer. 
 
 ## Honerable mentions
 
@@ -17,7 +17,7 @@ Jasmine asked me recently which games I've spent the most time in. Herself havin
 
 - Minecraft
 
-I have no idea of how many hours I have in these games, but presumable a lot. I should be able to check my stats in Overwatch, but I can't get any data for some reason. I would assume it's because they wiped it clean after they added the '2' to the title, or maybe after they went back and removed it again, who knows. 
+I have no idea of how many hours I have in these games, but presumable a lot. I should be able to check my stats in Overwatch, but I can't get any data for some reason. I would assume it's because they wiped it clean after they added the '2' to the title, or maybe after they went back and removed it again, who knows. And in Minecraft you've never really been able to check stats at all to my knowledge.
 
 ## 10. Netflix Puzzled (2025) - 91 h
 
@@ -49,11 +49,11 @@ This was released beginning of the pandemic and I know a lot of people spent tim
 
 ![Animal Crossing - Mira](https://animalcrossingwiki.de/_media/nachbarn/mira/mira_nh.png?w=300&h=300&tok=adc129)
 
+Mira - a.k.a. best villager
+
 ## 4. Diablo 3 (2012) - 134 h
 
 A friend told me that he thought I'd enjoy Diablo 3. He was right. I had a shitty laptop back then though, so I couldn't really enjoy it straight away. A year or two down the line on the other hand! 
-
-
 
 For all of you who are wondering - Demon Hunter main. But I of course have a maxed out character for all classes (except the expansion ones).
 
@@ -74,5 +74,3 @@ Sam Light
 ## 1. Trackmania (2020) - 231 h
 
 ARE YOU SURPRISED?! I hope not. I feel like I've talked to everybody I know about this. Even people at work who aren't into games. What can I say, Nadeo has nailed the arcade-y time trail format with the feel of the stadium car. Sometimes I get nostalgic and try to play TrackMania Nations Forever, but I haven't managed to get it to run in recent years. At some point I'm gonna cave and buy one of the other old ones, maybe TrackMania² Stadium. 🤔
-
-
