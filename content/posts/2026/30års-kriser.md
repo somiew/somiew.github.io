@@ -9,12 +9,11 @@ tags:
   - "serier"
 ---
 
-
-
 Jag gick och skaffade mig två 30-årskriser. Att hålla mig till en hobby i taget har ändå aldrig varit min grej.
 
 ## Kris 1
-Ännu en gång anmält mig till ett lopp. Detta gång fick jag med mig en kompis. Midnattsloppet - 5 km. 
+
+Ännu en gång anmält mig till ett lopp. Denna gång fick jag med mig en kompis. Midnattsloppet - 5 km. 
 Vi har anmält att vi springer det på mindre än 35 minuter. Vilket känns rimligt då jag för 3 år sedan sprang 5 km på 33 min. 
 Att jag inte sprungit sedan dess (mer än som uppvärmning på gymmet någon gång då och då) är en annan femma. 
 Och tillskillnad från sist har jag faktiskt lite bättre framförhållning den här gången, då det inte äger rum förrän i slutet på augusti.
@@ -22,6 +21,7 @@ Och tillskillnad från sist har jag faktiskt lite bättre framförhållning den 
 Hur som haver. Den krisen var ändå lite väntad. Den jag inte hade räknat med, var serietidningar.
 
 ## Kris 2
+
 Jag började läsa _Absolute Batman_ (2024) förra året. En extremt överdriven version av batman. 
 Där den genomsnittliga mannen är byggt som den klassiska batman, och batman själv har kroppshyddan av Ser Gregor Clegane "The Mountain", 
 fast med större lårmuskler. Efter det väntade jag, i månader, på att nästa volym skulle släppas. 
