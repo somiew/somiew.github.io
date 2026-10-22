@@ -7,6 +7,7 @@ tags:
   - "games"
   - "svenska"
   - "kunio-kun"
+  - "WayForward"
 ---
 
 ![Cover art](https://images.igdb.com/igdb/image/upload/t_original/ar8ci.jpg)
@@ -20,15 +21,15 @@ Mortal Kombat 11 (2019) fick för några år sedan in mig på fighting-spel. Min
 Sedan MK11 har jag varit på jakt efter nästa schysta fighting-spel. En trevlig mix av lite story och tanklöst knapptryckande. På min väg har det blivit: 
 
 - _Guilty Gear XX Accent Core Plus R_ (2015)
-
+  
     Kul karaktärsdesigner, en snygg "klassisk" art-style, meeen alldeles för svårt för att jag skulle komma in i det.
 
 - _Dead or Alive 6_ (2019)
-
+  
     Tuttar, tuttar, tuttar överallt! Men också ett kul berättarupplägg och snabbt att komma in i slagsmål. Typ inga laddningskärmar alls. Bara starta spelet hoppa in i en fight. 
 
 - _Mortal Kombat 1_ (2023)
-
+  
     Självklart var jag tvungen att skaffa uppföljaren till MK11 när den kom. Tyvärr slog den inte lika hårt som sin föregångare. Det känns tyngre på något sätt, inte lika lättsamt som MK11. Fortfarande kul att ta sig igenom och trevligt med en ny tappning av en del karaktärer. Även kul att se karaktärer som inte dök upp i 11an, vara med här.
 
 Om du som läsare har lite koll på alla de här spelen, undrar du kanske varför jag tar upp fighting-spel, när rubriken är River City Girls, som inte alls är ett fighting-spel. Det hela är väldigt lätt. Det var tydligen inte fighting-spel jag var ute efter. Jag har nyligen upptäckt, beat 'em ups! (Ok jag antar att beat 'em ups tillhör en övergripande genre av fighting-spel but that's beyond the point). 
