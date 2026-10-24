@@ -1,6 +1,6 @@
 ---
 title: "Shantae-special"
-date: "2026-10-11"
+date: "2026-10-22"
 categories:
   - "games"
 tags:
