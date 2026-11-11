@@ -6,8 +6,15 @@
     <description>Recent content in Categories on Lindskold</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 22 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lindskold.se/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vardag</title>
+      <link>https://lindskold.se/categories/vardag/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://lindskold.se/categories/vardag/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Games</title>
       <link>https://lindskold.se/categories/games/</link>
@@ -34,13 +41,6 @@
       <link>https://lindskold.se/categories/film/</link>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://lindskold.se/categories/film/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vardag</title>
-      <link>https://lindskold.se/categories/vardag/</link>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/categories/vardag/</guid>
       <description></description>
     </item>
     <item>

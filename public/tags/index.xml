@@ -6,20 +6,34 @@
     <description>Recent content in Tags on Lindskold</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 22 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lindskold.se/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Games</title>
-      <link>https://lindskold.se/tags/games/</link>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/tags/games/</guid>
+      <title>Books</title>
+      <link>https://lindskold.se/tags/books/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://lindskold.se/tags/books/</guid>
       <description></description>
     </item>
     <item>
       <title>Svenska</title>
       <link>https://lindskold.se/tags/svenska/</link>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
       <guid>https://lindskold.se/tags/svenska/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vardag</title>
+      <link>https://lindskold.se/tags/vardag/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://lindskold.se/tags/vardag/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Games</title>
+      <link>https://lindskold.se/tags/games/</link>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://lindskold.se/tags/games/</guid>
       <description></description>
     </item>
     <item>
@@ -181,13 +195,6 @@
       <link>https://lindskold.se/tags/mtg/</link>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://lindskold.se/tags/mtg/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vardag</title>
-      <link>https://lindskold.se/tags/vardag/</link>
-      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://lindskold.se/tags/vardag/</guid>
       <description></description>
     </item>
     <item>

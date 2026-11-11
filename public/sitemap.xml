@@ -2,8 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lindskold.se/tags/books/</loc>
+    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lindskold.se/categories/</loc>
-    <lastmod>2026-10-22T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lindskold.se/</loc>
+    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lindskold.se/posts/</loc>
+    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lindskold.se/tags/svenska/</loc>
+    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lindskold.se/tags/</loc>
+    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lindskold.se/tags/vardag/</loc>
+    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lindskold.se/categories/vardag/</loc>
+    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lindskold.se/posts/2026/vardag-i-min-vaska/</loc>
+    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lindskold.se/tags/games/</loc>
     <lastmod>2026-10-22T00:00:00+00:00</lastmod>
@@ -11,19 +35,7 @@
     <loc>https://lindskold.se/categories/games/</loc>
     <lastmod>2026-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lindskold.se/</loc>
-    <lastmod>2026-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lindskold.se/posts/</loc>
-    <lastmod>2026-10-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lindskold.se/posts/2026/shantae-special/</loc>
-    <lastmod>2026-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lindskold.se/tags/svenska/</loc>
-    <lastmod>2026-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lindskold.se/tags/</loc>
     <lastmod>2026-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lindskold.se/tags/wayforward/</loc>
@@ -78,9 +90,6 @@
     <lastmod>2026-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lindskold.se/tags/serier/</loc>
-    <lastmod>2026-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lindskold.se/categories/vardag/</loc>
     <lastmod>2026-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lindskold.se/tags/clothes/</loc>
@@ -162,9 +171,6 @@
     <lastmod>2025-03-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lindskold.se/tags/mtg/</loc>
-    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lindskold.se/tags/vardag/</loc>
     <lastmod>2025-03-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lindskold.se/posts/2025/vecka-11/</loc>
